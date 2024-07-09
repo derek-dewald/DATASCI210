@@ -12,4 +12,5 @@ Estimated weekly milestones.
 [Week 5 Update](https://docs.google.com/presentation/d/1zGBGNFSkEttiE3OEr7CQOEIr8wSVPhynn23S_Lwo5uY/edit?usp=sharing) (06-Jun-24) - Presentation 1: Arbitrage details including research references, EDA, etc.<br>
 [Week 6 Update](https://docs.google.com/presentation/d/1pYRLEQKx76R_Qkabx9OGdzJ1OIg-eKARIyjMd-pJwvg/edit?usp=sharing) (13-Jun-24) - Clear objective, tutorial refinement, EDA including dataset of swaps (2M transactions).<br>
 [Week 7 Update](https://docs.google.com/presentation/d/1-0u_ZmkhvCD1P24fWFkwsIZuPIBl_Wyn5EOvXjLAs20/edit?usp=sharing) (20-Jun-24) - Updates and reordering slides<br>
-[Week 8 Update](https://docs.google.com/presentation/d/1Oeb7TE90p9eSLa8IhEUxMtKpo6s8t_8bPqAgZKBd7MA/edit?usp=sharing) (27-Jun-24) - (TBD)
+[Week 8 Update](https://docs.google.com/document/d/1kJqzaGfBTkTcZLSdInZIGjZeftoowl_GlgQJiU64Jd8/edit?usp=sharing) (27-Jun-24) - Project Pitch
+[Week 10 Update](https://docs.google.com/presentation/d/1Oeb7TE90p9eSLa8IhEUxMtKpo6s8t_8bPqAgZKBd7MA/edit?usp=sharing) (11-Jul-24) - Presentation 2
