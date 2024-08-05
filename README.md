@@ -56,7 +56,7 @@ https://drive.google.com/drive/u/0/folders/1lBbvKi-utrPpTvPr63MUHXRLKcBlyHoK/FIN
 ## Data Dictionary
 Excel File of Data Dictionary for Final Dataset (with extention as available in Generate Dataset.ipynb
 
-##EDA_Files
+## EDA_Files
 Extraction of All Numeric Variables identified as potentially revelant in Final Dataset, with Extention from Generate Dataset.ipynb (Data Dictionary Column Data Review (Binary Flag to include).
 
 ## [Detailed Project Plan](https://docs.google.com/document/d/1Oqdw755-bDg8vmPXqo-o7OxiThfNmEx8LH00WVWDaoU/edit?usp=sharing)<br>
