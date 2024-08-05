@@ -1,5 +1,42 @@
 # Uniswap Project
 
+## Github Repo
+Overview Summary of what is located in the Github Repo and Where it is located.
+
+## Code
+TheGraph_Transaction_Extraction.ipynb : Original Request for Transaction Data, as extracted from TheGraph. TheGraph underwent material updgrade between time of initial extraction and Jul-24, which resulted in this query no longer being functional.
+
+Supplemental_InfoRequest.ipynb: Supplemental File, used in conjunction with a particular Transaction ID, to extract additional information, such as Max Gas Offered, Noonce and additional insight into Transaction ID.
+
+Etherscan_Data_Extract_API.ipynb : Transaction Level Extraction from Etherscan to replace real-time (or near real time extraction), to replace Broken Graph call (TheGraph_Transaction_Extraction.ipynb)
+Etherscan_Data_Extract_Jul18_V2.ipynb: Second iteration of Etherscan_Data_Extract (Parameters change, slight difference to timing logic).
+
+Generate Dataset.ipynb: Function utilized to build upon foundational extract dataset and create Activity Level Metrics and references (Need to point to raw data to work correctly, currently pointing at specific location).
+
+TRADER_DATASET - Function utilizing final dataset( Originally created manually, as final dataset not centrally posted at time of creation). Utilized to generate User Level Information, Metrics and Datasets. User datasets are not published directly due to duplication and size, need to utilzie this funciton to recreate. 
+
+DATASCI210_DATA_VISUALIZATION_FUNCTIONS.py: Functions utilized in the creation of Trader Level Visualizations.
+DATASCI210_Functions.py: Functions utilized in creation of Dataset. Includes derivation of all variables in Trader Dataet and Generate Dataset.
+
+
+
+## Data Dictionary
+
+
+## Datasets
+Listing of Temporary Datasets Used
+
+
+##EDA_Files
+
+
+## mydiamondhands.io
+https://github.com/scaperothian/diamondhands-demo
+
+## Streamlit App
+https://github.com/shirshikartejas/arbitrage_playgroud_v2/tree/main/models
+
+
 ## [Detailed Project Plan](https://docs.google.com/document/d/1Oqdw755-bDg8vmPXqo-o7OxiThfNmEx8LH00WVWDaoU/edit?usp=sharing)<br>
 Project information, value propositions, etc.
 
