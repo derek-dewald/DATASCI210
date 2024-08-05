@@ -1,6 +1,18 @@
 # Uniswap Project
 
-## Github Repo
+## Team Google Drive
+https://drive.google.com/drive/u/0/folders/1lBbvKi-utrPpTvPr63MUHXRLKcBlyHoK
+
+## Team Website
+mydiamondhands.io
+
+## Website Git Repo
+https://github.com/scaperothian/diamondhands-demo
+
+## Streamlit App Git Repo
+https://github.com/shirshikartejas/arbitrage_playgroud_v2/tree/main/models
+
+## Table of Contents for Current Git Repo
 Overview Summary of what is located in the Github Repo and Where it is located.
 
 ## Code
@@ -20,22 +32,32 @@ DATASCI210_Functions.py: Functions utilized in creation of Dataset. Includes der
 
 
 
-## Data Dictionary
-
-
 ## Datasets
-Listing of Temporary Datasets Used
+ALL_COLUMN_STATISTICAL_REVIEW: Review of Numberic Columns statistical average, Decile and differences, measured as a total population, only instances where Arbitrage is Present and where Arbitrage is Not Present. 
+WBTC_Market_Price: Historical Market price of WBTC (Used in preliminary exploration).
+WETH_Market_Price: Historical Market Price of WETH (Used in preliminary exploration).
+hourly_XXXX. Files representing initial raw extraction hourly (used in exloration in advance of final dataset).
+weth_to_usd_hist.xlsx/ weth_to_usdc_hist.xlsx - Historical representations of data.
 
+Due to Size contraints, can not be easily stored in Github.
+Final Dataset:
+https://drive.google.com/drive/u/0/folders/1lBbvKi-utrPpTvPr63MUHXRLKcBlyHoK/arbitrage_dataset_20230611_20240613.zip (663.1MB)
+
+Supplemental:
+Supplemental File including Additional Gas Information, sourced by Transaction ID
+https://drive.google.com/drive/u/0/folders/1lBbvKi-utrPpTvPr63MUHXRLKcBlyHoK/All_Supplemetal_Gas_Columns.csv (442.5MB)
+
+Supplemental File including Additional Transaction Remitter information (File Missing Records, due to unknown API Extraction error)
+https://drive.google.com/drive/u/0/folders/1lBbvKi-utrPpTvPr63MUHXRLKcBlyHoK/INITIAL_SUPPLEMENTAL_DATASET.csv (982.3MB)
+
+Supplemental File including Additional Transaction Remitter information (Included transactions missed in initial Supplemental review)
+https://drive.google.com/drive/u/0/folders/1lBbvKi-utrPpTvPr63MUHXRLKcBlyHoK/FINAL_SUPPLEMENTAL_DATASET.csv (432.90MB)
+
+## Data Dictionary
+Excel File of Data Dictionary for Final Dataset (with extention as available in Generate Dataset.ipynb
 
 ##EDA_Files
-
-
-## mydiamondhands.io
-https://github.com/scaperothian/diamondhands-demo
-
-## Streamlit App
-https://github.com/shirshikartejas/arbitrage_playgroud_v2/tree/main/models
-
+Extraction of All Numeric Variables identified as potentially revelant in Final Dataset, with Extention from Generate Dataset.ipynb (Data Dictionary Column Data Review (Binary Flag to include).
 
 ## [Detailed Project Plan](https://docs.google.com/document/d/1Oqdw755-bDg8vmPXqo-o7OxiThfNmEx8LH00WVWDaoU/edit?usp=sharing)<br>
 Project information, value propositions, etc.
